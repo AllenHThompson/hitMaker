@@ -1,0 +1,1 @@
+hitMaker is an application that will analyze hit songs and chart the bass line, cadence, and rhythm to model future hit songs. The developer makes the assumption that pleasing sounds to the human ear follow repeatable patterns.
